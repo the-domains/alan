@@ -1,0 +1,14 @@
+layout_spectrum: 0.4525623
+typography_spectrum: 0.1094145
+color:
+  saturation: 0.1598663
+  lightness: 0.929379
+  brandStrength: 0.9092063
+  rhythmicContrast: 0.2219189
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Alan
