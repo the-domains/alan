@@ -10,17 +10,16 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.125448
 color:
   saturation: 0.1598663
   brandStrength: 0.4677419
   lightness: 0.929379
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#0A0D17'
+    - '#273039'
+    - '#5C9AE9'
+    - '#77766F'
   rhythmicContrast: 0.2219189
+typography_spectrum: 0.125448
 layout_spectrum: 0.6523297
 name: Alan
