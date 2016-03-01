@@ -1,3 +1,7 @@
+name: Alan
+favicon: null
+layout_spectrum: 0.99579
+typography_spectrum: 0.125448
 collections:
   - index:
       path: /
@@ -10,16 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1598663
-  brandStrength: 0.4677419
-  lightness: 0.929379
   brandColors:
     - '#0A0D17'
     - '#273039'
     - '#5C9AE9'
     - '#77766F'
+  brandStrength: 0.4677419
+  lightness: 0.929379
+  saturation: 0.1598663
   rhythmicContrast: 0.2219189
-typography_spectrum: 0.125448
-layout_spectrum: 0.6523297
-name: Alan
+purpose: []
